@@ -1,3 +1,8 @@
 .container{     
 margin-left: 140px;
 }
+
+#myTableBody{
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Modify the values as needed */
+}
